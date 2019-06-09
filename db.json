@@ -1,0 +1,5 @@
+{
+"logements": [
+{"nom": "Appart 1", "long":13, "lat":9, "prix":2000, "tel":"6777888999", "prenom":"Henry"}
+]
+}
